@@ -13,7 +13,7 @@ pipeline {
     }
 
     environment {
-      PATH="C:/Users/ABHISHEKKENCHAPPA/miniconda3/condabin"
+      PATH=""
     }
 
     stages {
