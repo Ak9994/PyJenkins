@@ -12,9 +12,9 @@ pipeline {
         timestamps()
     }
 
-    //environment {
-      //PATH="/var/lib/jenkins/miniconda3/bin:$PATH"
-    //}
+    environment {
+      PATH="C:\Users\ABHISHEKKENCHAPPA\miniconda3\condabin"
+    }
 
     stages {
 
