@@ -7,6 +7,7 @@
 #     codecs.register(func)
 
 from setuptools import setup, find_packages
+importlib
 
 
 requirements = [
