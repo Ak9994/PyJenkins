@@ -14,7 +14,7 @@ pipeline {
 
     environment {
       PATH="/var/lib/jenkins/miniconda3/bin:$PATH"
-      registry = "docker_hub_account/repository_name"
+      registry = "gustavoapolinario/jenkins-docker"
       registryCredential = 'dockerhub'
     }
 
